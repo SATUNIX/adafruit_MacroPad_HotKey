@@ -6,6 +6,11 @@ This is a customizable macro/hotkey launcher for the **Adafruit MACROPAD**.
 Rotate the encoder to switch between macro sets. Press any key to send
 custom keystrokes, commands, or strings over USB to the connected host.
 
+Based on original code by Phillip Burgess / Adafruit
+With my modifications to code.py and custom macros.
+should be good for circuitpy 9.x firmware. 
+If you get any issues such as import error, use the lib and requirements from Adafruit. 
+
 ---
 
 ## File Structure
